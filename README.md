@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hii 👋, I'm Kunal Khapre <a href="https://www.youtube.com/@cloudchamp/">AI Enthusiast</a></font></h1>
+<h1 align="center"><font face="Arial">Hii 👋, I'm Kunal Khapre <a href="https://github.com/kunalkhapre/">AI Enthusiast</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kunal-khapre-431096369/" target="_blank" rel="noreferrer">Kunal</a> 's an aspiring AI engineer and tech enthusiast with a strong passion for machine learning, natural language processing, and intelligent systems. I build smart applications using tools like Python, GPT APIs, and modern web frameworks to solve real-world problems.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
