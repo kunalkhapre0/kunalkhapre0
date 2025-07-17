@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Kunal Khapre <a href="https://www.youtube.com/@cloudchamp/">AI Enthusiast</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kunal-khapre-431096369/" target="_blank" rel="noreferrer">Kunal</a> is a passionate AI Engineer student from Indore, working on Cloud and WebDev for 1+ years now. Feel free to reach out for any Chatbot Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hii 👋, I'm Kunal Khapre <a href="https://www.youtube.com/@cloudchamp/">AI Enthusiast</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kunal-khapre-431096369/" target="_blank" rel="noreferrer">Kunal</a> 's an aspiring AI engineer and tech enthusiast with a strong passion for machine learning, natural language processing, and intelligent systems. I build smart applications using tools like Python, GPT APIs, and modern web frameworks to solve real-world problems.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Personal Port:</font></h3>
@@ -73,8 +73,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymecoffy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffy" /></a><a href="https://ko-fi.com/Ko-fi use"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi use" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkhapre0&show_icons=true&locale=en&layout=compact" alt="kunalkhapre0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkhapre0&show_icons=true&locale=en" alt="kunalkhapre0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkhapre0&" alt="kunalkhapre0" /></p>
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kunalkhapre0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kunalkhapre0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhapre0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
