@@ -18,7 +18,6 @@ I believe in learning by doing, and I actively work on projects that strengthen 
 
  ###  🛠️ Tech Stack:
 
-![PowerShell](https://img.shields.io/badge/-POWERSHELL-2C5EAA?style=for-the-badge&logo=powershell&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
