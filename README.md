@@ -15,6 +15,11 @@ AI & Computer Science Student | AI • ML • Data Science Enthusiast
 <img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
+###  ✨About
+
+   I have a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy learning new concepts and applying them through practical projects and hands-on experimentation.
+Currently focused on strengthening my understanding of programming, AI systems, and cloud technologies while continuously improving my technical skills step by step.
+
  ###  🛠️ Tech Stack:
 
 <p align="left"> 
