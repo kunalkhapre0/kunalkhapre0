@@ -18,24 +18,62 @@ I believe in learning by doing, and I actively work on projects that strengthen 
 
  ###  🛠️ Tech Stack:
 
-![Google Cloud](https://img.shields.io/badge/-GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left"> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="40" height="40"/> 
+</a> 
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+</a> 
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+</p>
 
 
 ### 🚀 Tools:
 
-![Anaconda](https://img.shields.io/badge/-ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Spyder](https://img.shields.io/badge/-Spyder-1DC11D?style=for-the-badge&logo=spyder-ide&logoColor=white)
+<p align="left"> 
 
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
+</a> 
+
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/> 
+</a> 
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+</a> 
+
+</p>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
