@@ -172,7 +172,8 @@ Currently focused on strengthening my understanding of programming, AI systems, 
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40"/>
 </a>
 
-### gitHub Status:
+
+### 📈 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=kunalkhapre0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kunalkhapre0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhapre0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
