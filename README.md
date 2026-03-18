@@ -57,7 +57,10 @@ Currently focused on strengthening my understanding of programming, AI systems, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </a>
 
-
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="40" height="40"/>
+</a>
 
  ### 🔗 Connect with me:
 
@@ -72,6 +75,11 @@ Currently focused on strengthening my understanding of programming, AI systems, 
   <a href="https://www.linkedin.com/in/kunal-khapre-431096369" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+<!-- Email -->
+<a href="mailto:kunalkhapre093@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" />
+</a>
   
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/nikuupavawa" target="_blank">
