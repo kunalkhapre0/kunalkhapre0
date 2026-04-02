@@ -102,7 +102,7 @@ Currently focused on strengthening my understanding of programming, AI systems, 
 
 <!-- LeetCode -->
 <a href="https://leetcode.com/u/DkP0N1lQaE/" target="_blank">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=30" width="40" alt="LeetCode" />
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=leetcode&size=40" width="40" alt="LeetCode" />
 </a>
 
 </p>
@@ -146,7 +146,7 @@ Currently focused on strengthening my understanding of programming, AI systems, 
   
    <!-- R -->
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/>
   </a>
   </p>
 
