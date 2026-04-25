@@ -17,7 +17,7 @@ AI & Computer Science Student | AI • ML • Data Science Enthusiast
 
 ###  ✨About
 
-   I have a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy learning new concepts and applying them through practical projects and hands-on experimentation.
+   I have a strong interest in AWS, Artificial Intelligence, Machine Learning, and Data Science. I enjoy learning new concepts and applying them through practical projects and hands-on experimentation.
 Currently focused on strengthening my understanding of programming, AI systems, and cloud technologies while continuously improving my technical skills step by step.
 
 
