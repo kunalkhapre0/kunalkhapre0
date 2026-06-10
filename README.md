@@ -7,7 +7,7 @@ AI & Computer Science Student | AI • ML • Data Science Enthusiast
 <p align="center">
 <a href="https://www.linkedin.com/in/kunal-khapre-431096369/" target="_blank">LinkedIn</a> •
 <a href="https://github.com/kunalkhapre0" target="_blank">GitHub</a> •
-<a href="file:///Users/omprakashkhapre/Downloads/index.html" target="_blank">Portfolio</a>
+<a href="https:///Users/omprakashkhapre/Downloads/index.html" target="_blank">Portfolio</a>
 </p>
 
 ---
